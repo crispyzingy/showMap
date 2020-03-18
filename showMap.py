@@ -1,3 +1,5 @@
+# place the showmap.bat file in the python script path
+
 import sys
 import webbrowser
 
